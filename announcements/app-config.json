@@ -1,0 +1,15 @@
+
+{
+  "latestVersion": "1.0.0",
+  "recommendedVersion": "1.0.0",
+  "maintenanceMode": false,
+  "maintenanceMessage": "",
+  "showUpdateNotification": false,
+  "updateNotification": {
+    "title": "新しいバージョンが利用可能",
+    "message": "より安定した動作とバグ修正が含まれています。アップデートをお勧めします。",
+    "updateButtonText": "今すぐアップデート",
+    "laterButtonText": "後で"
+  },
+  "notices": []
+}

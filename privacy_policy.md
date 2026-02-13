@@ -26,8 +26,6 @@
 
 本アプリは、以下のサードパーティサービスを利用しており、これらのサービスがお客様の情報を収集する場合があります。各社のプライバシーポリシーについては、以下のリンクをご参照ください。
 
-- **Firebase (Google LLC):**
-  - [Googleプライバシーポリシー](https://policies.google.com/privacy)
 - **Google AdMob (Google LLC):**
   - [Googleプライバシーポリシー](https://policies.google.com/privacy)
 
